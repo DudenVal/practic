@@ -1,0 +1,15 @@
+C:\Users\Валера\Desktop\Код С#\Praktika\2 man & dog\obj\Debug\net6.0\2 man & dog.csproj.AssemblyReference.cache
+C:\Users\Валера\Desktop\Код С#\Praktika\2 man & dog\obj\Debug\net6.0\2 man & dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валера\Desktop\Код С#\Praktika\2 man & dog\obj\Debug\net6.0\2 man & dog.AssemblyInfoInputs.cache
+C:\Users\Валера\Desktop\Код С#\Praktika\2 man & dog\obj\Debug\net6.0\2 man & dog.AssemblyInfo.cs
+C:\Users\Валера\Desktop\Код С#\Praktika\2 man & dog\obj\Debug\net6.0\2 man & dog.csproj.CoreCompileInputs.cache
+C:\Users\Валера\Desktop\Код С#\Praktika\2 man & dog\bin\Debug\net6.0\2 man & dog.exe
+C:\Users\Валера\Desktop\Код С#\Praktika\2 man & dog\bin\Debug\net6.0\2 man & dog.deps.json
+C:\Users\Валера\Desktop\Код С#\Praktika\2 man & dog\bin\Debug\net6.0\2 man & dog.runtimeconfig.json
+C:\Users\Валера\Desktop\Код С#\Praktika\2 man & dog\bin\Debug\net6.0\2 man & dog.dll
+C:\Users\Валера\Desktop\Код С#\Praktika\2 man & dog\bin\Debug\net6.0\2 man & dog.pdb
+C:\Users\Валера\Desktop\Код С#\Praktika\2 man & dog\obj\Debug\net6.0\2 man & dog.dll
+C:\Users\Валера\Desktop\Код С#\Praktika\2 man & dog\obj\Debug\net6.0\refint\2 man & dog.dll
+C:\Users\Валера\Desktop\Код С#\Praktika\2 man & dog\obj\Debug\net6.0\2 man & dog.pdb
+C:\Users\Валера\Desktop\Код С#\Praktika\2 man & dog\obj\Debug\net6.0\2 man & dog.genruntimeconfig.cache
+C:\Users\Валера\Desktop\Код С#\Praktika\2 man & dog\obj\Debug\net6.0\ref\2 man & dog.dll
